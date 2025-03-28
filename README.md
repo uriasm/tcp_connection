@@ -33,7 +33,7 @@
 
 1. **Ejecutar pruebas**: Para ejecutar las pruebas, utiliza el siguiente comando:
     ```sh
-    pytest
+    pytest tests/tcp_connection_tests.py
     ```
 
 ### Notas
